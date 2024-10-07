@@ -1,0 +1,38 @@
+body{
+    background-size: cover;
+    background-image: url(fundo-de-tecnologia-digital-com-moldura-hexagonal-em-tom-branco_53876-117507.avif)
+}
+h1{
+    text-align: center;
+    padding: 130px 0;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    padding-top: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    padding-top: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.linha1{
+    height: 4px;
+    margin: 35px 0 auto; 
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+
+.botao_sm,
+.botao_p,
+.botao_c{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 220px;
+    height: 35px;
+    border-radius: 10px
+}
